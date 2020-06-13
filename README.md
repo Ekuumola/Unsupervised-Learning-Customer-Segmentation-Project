@@ -56,5 +56,5 @@ You will also need to have Juypyter software installed to run and execute an [iP
 In a terminal or command window run the following commands:
 
 ```bash
-jupyter notebook Identify_Customer_Segments.ipynb
+ipython notebook Identify_Customer_Segments.ipynb
 ```  
